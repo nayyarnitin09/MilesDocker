@@ -1,5 +1,5 @@
 web:
-  image: alexcheng/magento
+  image: miles/demodocker
   ports:
     - "80:80"
   links:
